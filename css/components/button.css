@@ -1,0 +1,14 @@
+
+.button{
+	background-color: black;
+	padding:10px 20px;
+	border-radius:6px;
+	color:white;
+	box-sizing: 10px;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+.button:hover{
+	background-color: #255986;
+}
